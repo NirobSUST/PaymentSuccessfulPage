@@ -1,0 +1,4 @@
+1. Open in VS code.
+2. In terminal run this command
+	node server.js
+3. "http://localhost:3001/payment-success"	=>	This would be your required URL
